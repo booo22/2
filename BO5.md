@@ -7,10 +7,10 @@
 實作提示語：「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」
 
 學習重點：學會運用形容詞與動作描述，使角色視覺上更具活力。
-
+圖片一
 ![image](https://github.com/user-attachments/assets/7d8056a7-cf29-43af-98a7-78d2bdd37e25)
+圖片二
 ![image](https://github.com/user-attachments/assets/7fc2c334-25be-48ee-9cc3-4fe95eb2b89a)
-
 
 # [Lab 2: 超級英雄漫畫風格]
 
@@ -21,8 +21,9 @@
 實作提示語：「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
 
 學習重點：理解如何透過色彩與動作表現角色的氣場與強烈視覺衝擊。
-
+圖片一
 ![image](https://github.com/user-attachments/assets/3febc78c-9572-4afa-aabb-9df0405c360c)
+圖片二
 ![image](https://github.com/user-attachments/assets/530b91e4-130b-45f3-9f8a-1b848755fbdd)
 
 # [Lab 3: 基礎寫實風景]
@@ -34,8 +35,9 @@
 實作提示語：「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
 
 學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。
-
+圖片一
 ![image](https://github.com/user-attachments/assets/27ccdde1-7c6b-4681-8f16-3507abaa35e8)
+圖片二
 ![image](https://github.com/user-attachments/assets/7fc36559-6b7e-4312-a553-6d32afb73093)
 
 # [Lab 4: 現代城市夜景]
