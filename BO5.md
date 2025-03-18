@@ -22,6 +22,7 @@
 實作提示語：「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
 
 學習重點：理解如何透過色彩與動作表現角色的氣場與強烈視覺衝擊。
+
 圖片一
 ![image](https://github.com/user-attachments/assets/3febc78c-9572-4afa-aabb-9df0405c360c)
 圖片二
@@ -35,7 +36,8 @@
 
 實作提示語：「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
 
-學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。
+學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。 
+
 圖片一
 ![image](https://github.com/user-attachments/assets/27ccdde1-7c6b-4681-8f16-3507abaa35e8)
 圖片二
@@ -51,7 +53,9 @@
 
 學習重點：理解城市環境中的光影效果，學習如何運用反射與燈光來增強夜景的立體感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/dd521366-08a2-4c11-9a9f-c2fd76130336)
+圖片二
 ![image](https://github.com/user-attachments/assets/2f6c478f-c0b2-4a10-a52b-4646cc23f891)
 
 # [Lab 5: 印象派風景]
@@ -64,7 +68,9 @@
 
 學習重點：理解印象派如何透過光影與色彩變化來捕捉瞬間的美感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/ec4af4ce-8032-4e09-a1d5-ef82430099de)
+圖片二
 ![image](https://github.com/user-attachments/assets/a437520e-e908-4187-958e-20b760a044d2)
 
 # [Lab 6: 表現主義肖像]
@@ -76,7 +82,9 @@
 
 學習重點：學會如何運用強烈的色彩對比來增強情感表現。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/206ac75a-7683-4321-9073-1ddbd6255789)
+圖片二
 ![image](https://github.com/user-attachments/assets/7327948c-f8f0-43fe-9e53-94a1f91cf702)
 
 # [Lab 7: 幾何抽象設計]
@@ -89,7 +97,9 @@
 
 學習重點：理解幾何結構如何影響視覺焦點，學習如何平衡圖形構成。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/4641c2d6-d705-4f8a-a87b-07078d9bd60e)
+圖片二
 ![image](https://github.com/user-attachments/assets/7dcdde85-edfa-40fd-b5b1-e94fc7667069)
 
 # [Lab 8: 文藝復興風格肖像]
@@ -102,7 +112,9 @@
 
 學習重點：理解文藝復興時期對於光影的處理與人物細節的雕琢方式。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/7265748b-f62e-4f7e-892c-f7c264987b8d)
+圖片二
 ![image](https://github.com/user-attachments/assets/6a18d3cc-61e8-4597-bbb9-8b92fd4804df)
 
 # [Lab 9: 古典建築]
@@ -115,7 +127,9 @@
 
 學習重點：掌握建築比例與光影處理，學習如何突出建築的宏偉感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/53c548b4-4d0b-47dd-a53c-8a3a4f3f637b)
+圖片二
 ![image](https://github.com/user-attachments/assets/d5b862c9-a134-404f-885b-a86f43686317)
 
 # [Lab 10: 神話場景創作]
@@ -128,7 +142,9 @@
 
 學習重點：學習如何運用戲劇性光影與動態構圖增強視覺張力。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/68525dcc-eb20-44e3-9a98-e867f6f4a304)
+圖片二
 ![image](https://github.com/user-attachments/assets/542598ca-1956-4d44-940a-685d6c05d22a)
 
 # [Lab 11: 超現實夢境]
@@ -141,7 +157,9 @@
 
 學習重點：理解如何透過顛覆物理法則與想像力，創造獨特的視覺體驗。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/1a38ae27-3f89-4013-b72c-50ea196f0f8d)
+圖片二
 ![image](https://github.com/user-attachments/assets/8b7aad0e-b963-4f38-9acb-541dc95b1f7d)
 
 # [Lab 12: 奇幻生物設計]
@@ -154,7 +172,9 @@
 
 學習重點：學會如何平衡生物結構的合理性與幻想元素，使角色既神秘又可信。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/7a3b2526-fdc6-4dba-8918-91c7e9842b34)
+圖片二
 ![image](https://github.com/user-attachments/assets/09990f58-f5b3-40d1-9b82-d59e40f475dd)
 
 # [Lab 13: 未來都市]
@@ -167,7 +187,9 @@
 
 學習重點：理解未來主義建築風格，學習如何透過構圖營造未來感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/b6af644f-48b5-4492-9890-e69b2a7192ac)
+圖片二
 ![image](https://github.com/user-attachments/assets/b62998fb-feb4-4f81-8abd-1aada4d30b65)
 
 # [Lab 14: 科技產品設計]
@@ -180,7 +202,9 @@
 
 學習重點：理解光線與材質在科技產品中的應用，學習如何透過提示語提升產品設計感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/6f905868-f887-4b41-a4fd-f855be70dc2b)
+圖片二
 ![image](https://github.com/user-attachments/assets/eb696687-272e-4942-a3a5-f39e5249991d)
 
 # [Lab 15: 全景風景]
@@ -193,7 +217,9 @@
 
 學習重點：掌握全景視角的構圖技術，理解透視與深度的處理方式。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/4459143a-c1fd-4207-b7d0-35830c7564e5)
+圖片二
 ![image](https://github.com/user-attachments/assets/b57fd8ea-4d67-49e7-b762-c28a95816497)
 
 # [Lab 16: 霧氣環境營造]
@@ -206,7 +232,10 @@
 
 學習重點：掌握霧氣對光線與色彩的影響，學習如何利用模糊與漸變效果增強空間感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/be0d55f4-b7d3-401e-94ea-c679c7a85f80)
+圖片二
+![image](https://github.com/user-attachments/assets/7f97f91f-d868-487e-a51c-7435ea26841d)
 
 # [Lab 17: 雨後都市風貌]
 
@@ -218,7 +247,9 @@
 
 學習重點：理解濕度與光影互動的影響，學會使用細節增強場景的真實感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/52828ab9-8487-4d6a-a683-43f780ad870a)
+圖片二
 ![image](https://github.com/user-attachments/assets/349e8a0a-74e9-4c84-9971-b3a889a73bce)
 
 # [Lab 18: 黃昏景象]
@@ -231,7 +262,9 @@
 
 學習重點：理解光線色溫對情緒的影響，學習如何使用光影變化強化畫面情感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/87e7c1d2-c75b-424c-920a-a226de8d1ca0)
+圖片二
 ![image](https://github.com/user-attachments/assets/ee2175d8-9697-4bed-aec3-478f286dfc3a)
 
 # [Lab 19: 動態水流效果]
@@ -244,7 +277,9 @@
 
 學習重點：掌握動態模糊與水體運動方向的影響，學習如何透過水花與反光來增強畫面表現。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/a1844515-9e0d-42ac-8c2f-d16daa3cb3de)
+圖片二
 ![image](https://github.com/user-attachments/assets/eb4f12f5-e6c1-4724-bdff-94314c69fa3f)
 
 # [Lab 20: 自然動態（樹葉搖曳）]
@@ -257,7 +292,9 @@
 
 學習重點：學會使用柔和模糊與動態方向來呈現細微的環境變化。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/79e26415-98b6-473f-971f-2b27946acb0d)
+圖片二
 ![image](https://github.com/user-attachments/assets/bc9e409d-e065-4d78-853b-a0214c491bfb)
 
 # [Lab 21: 企業 Logo 設計]
@@ -270,7 +307,9 @@
 
 學習重點：理解品牌識別設計的關鍵要素，學會如何運用形狀與色彩來傳遞品牌價值。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/cffae9e6-84a9-4d67-add9-bb2a09a7fe7f)
+圖片二
 ![image](https://github.com/user-attachments/assets/1ec4e000-da26-4d89-92ae-785154efe38a)
 
 # [Lab 22: 社交媒體廣告設計]
@@ -283,7 +322,9 @@
 
 學習重點：理解視覺層次、色彩對比與排版對廣告點擊率的影響。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/2c530092-59dd-4a8b-a94d-a3ba30c9fdd6)
+圖片二
 ![image](https://github.com/user-attachments/assets/cd207d73-4f29-43cc-8bb6-d09f185cd637)
 
 # [Lab 23: 3D 產品展示]
@@ -296,7 +337,9 @@
 
 學習重點：理解多角度視圖如何增強產品展示的說服力，學習如何運用光影提升產品質感。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/c804002c-4b32-4ee8-aa70-3caf591f6705)
+圖片二
 ![image](https://github.com/user-attachments/assets/71d7f020-9319-4a83-bd8e-d1533e53ba7f)
 
 ## **[Lab 24: 多風格融合與自訂敘事實驗]**
@@ -309,7 +352,9 @@
 
 學習重點：理解如何從敘事角度出發，整合多種風格元素，並創造具有故事性的畫面。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/c3e36764-90e3-474d-bf29-be16542dde90)
+圖片二
 ![image](https://github.com/user-attachments/assets/ff7e87e6-52b3-4eca-bee6-1086eda7356d)
 
 # [Lab 25: 跨領域創新應用實戰]
@@ -322,7 +367,9 @@
 
 學習重點：培養跨領域設計思維，學習如何將視覺元素與市場需求結合，提升品牌影響力。
 
+圖片一
 ![image](https://github.com/user-attachments/assets/93d81cb1-0074-4548-beeb-85b55994160f)
+圖片二
 ![image](https://github.com/user-attachments/assets/9f428366-bc65-420d-911b-b890373fd1b9)
 
 # [Lab 26: 精確複製與提示語優化實戰]
