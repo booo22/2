@@ -8,7 +8,7 @@
 
 學習重點：學會運用形容詞與動作描述，使角色視覺上更具活力。
 
-(https://![image](https://github.com/user-attachments/assets/7d8056a7-cf29-43af-98a7-78d2bdd37e25)
+![image](https://github.com/user-attachments/assets/7d8056a7-cf29-43af-98a7-78d2bdd37e25)
 
 
 # [Lab 2: 超級英雄漫畫風格]
