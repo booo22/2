@@ -33,8 +33,13 @@
 > 「將顧客按照消費行為自動分類」→ 沒有標籤的資料，K-Means 根據距離分出 K 群。
 
 ##SUNO實作
+並配合chatgpt寫歌詞
+1.https://suno.com/song/7c528def-2c34-475f-ab1c-274b9d0c1b7a?sh=rARgfiH23dVCSvRi
+主題:輕鬆愜意曬太陽
 
-1.
+2.https://suno.com/song/535f84b0-934f-46ab-8215-b9123db197d6?sh=2ZVz7gb0CJ5uTuo6
+主題:史努比卡通
 
 3.https://suno.com/song/024a5ec2-fc4e-402f-b75c-12046a1e2760?sh=7sLv3EUF4WIay0mB
+主題:史努比卡通
 
