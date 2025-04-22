@@ -34,9 +34,7 @@
 
 ##SUNO實作
 
-1.https://suno.com/song/7c528def-2c34-475f-ab1c-274b9d0c1b7a?sh=rARgfiH23dVCSvRi
-
-2.https://suno.com/song/535f84b0-934f-46ab-8215-b9123db197d6?sh=2ZVz7gb0CJ5uTuo6
+1.
 
 3.https://suno.com/song/024a5ec2-fc4e-402f-b75c-12046a1e2760?sh=7sLv3EUF4WIay0mB
 
