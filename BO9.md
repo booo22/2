@@ -104,7 +104,12 @@
         4. 挑戰與機會：強調AI的挑戰，例如倫理考量和負責任使用的必要性。使用雙刃劍的比喻來說明AI既可以是有益的，也可能是有害的。畫面顯示學生們在研討會上討論這些問題。
         5. 未來展望：過渡到一個未來城市景觀，AI已經革新了生活的各個方面。旁白強調，今天的學生將成為塑造這個未來的領導者。鏡頭聚焦在一群決心堅定的學生，走向地平線。
         6. 結尾信息：以一句強有力的陳述作結：「在AI的世界裡，可能性是無限的。你的旅程現在開始。」螢幕漸變為黑色，顯示出大學的標誌和報名參加AI應用課程的行動呼籲。
-![image](https://github.com/user-attachments/assets/9611a1eb-5345-4512-bc2c-072e05244bc1)
+![image](https://github.com/user-attachments/assets/876ac195-0efa-4753-b9cb-d7947cc3c968)
+![image](https://github.com/user-attachments/assets/44d60f8c-07b2-4870-ad08-0aef1d710fa4)
+![image](https://github.com/user-attachments/assets/fd93002c-36cf-4068-be20-7d1186333dcf)
+![image](https://github.com/user-attachments/assets/9e7b07bf-7700-4af3-a043-d80d05ddb346)
+![image](https://github.com/user-attachments/assets/f62d5f2d-3013-4565-bb46-3c2c8db653f7)
+![image](https://github.com/user-attachments/assets/01002ee1-9733-4d70-a0c7-79100c1f8bbb)
 
 ### AI音樂生成
 連結:https://suno.com/home
