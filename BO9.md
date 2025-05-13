@@ -111,7 +111,12 @@
 ![image](https://github.com/user-attachments/assets/f62d5f2d-3013-4565-bb46-3c2c8db653f7)
 ![image](https://github.com/user-attachments/assets/01002ee1-9733-4d70-a0c7-79100c1f8bbb)
 
-### AI音樂生成
+### AI動畫生成-Runaway
+連結:https://app.runwayml.com/video-tools/teams/a0920675345/dashboard
+
+作品:https://app.runwayml.com/creation/345da703-e17a-4ec9-965b-9dc128406bc8
+
+### AI音樂生成-Suno
 連結:https://suno.com/home
 
 ### 影片剪輯-Clipchamp
